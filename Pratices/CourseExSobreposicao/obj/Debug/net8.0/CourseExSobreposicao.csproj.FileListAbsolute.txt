@@ -1,0 +1,14 @@
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\CourseExSobreposicao\bin\Debug\net8.0\CourseExSobreposicao.exe
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\CourseExSobreposicao\bin\Debug\net8.0\CourseExSobreposicao.deps.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\CourseExSobreposicao\bin\Debug\net8.0\CourseExSobreposicao.runtimeconfig.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\CourseExSobreposicao\bin\Debug\net8.0\CourseExSobreposicao.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\CourseExSobreposicao\bin\Debug\net8.0\CourseExSobreposicao.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\CourseExSobreposicao\obj\Debug\net8.0\CourseExSobreposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\CourseExSobreposicao\obj\Debug\net8.0\CourseExSobreposicao.AssemblyInfoInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\CourseExSobreposicao\obj\Debug\net8.0\CourseExSobreposicao.AssemblyInfo.cs
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\CourseExSobreposicao\obj\Debug\net8.0\CourseExSobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\CourseExSobreposicao\obj\Debug\net8.0\CourseExSobreposicao.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\CourseExSobreposicao\obj\Debug\net8.0\refint\CourseExSobreposicao.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\CourseExSobreposicao\obj\Debug\net8.0\CourseExSobreposicao.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\CourseExSobreposicao\obj\Debug\net8.0\CourseExSobreposicao.genruntimeconfig.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\CourseExSobreposicao\obj\Debug\net8.0\ref\CourseExSobreposicao.dll
