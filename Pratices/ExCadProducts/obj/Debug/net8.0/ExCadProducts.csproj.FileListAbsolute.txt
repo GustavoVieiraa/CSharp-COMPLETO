@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExCadProducts\bin\Debug\net8.0\ExCadProducts.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExCadProducts\bin\Debug\net8.0\ExCadProducts.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExCadProducts\bin\Debug\net8.0\ExCadProducts.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExCadProducts\bin\Debug\net8.0\ExCadProducts.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExCadProducts\bin\Debug\net8.0\ExCadProducts.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExCadProducts\obj\Debug\net8.0\ExCadProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExCadProducts\obj\Debug\net8.0\ExCadProducts.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExCadProducts\obj\Debug\net8.0\ExCadProducts.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExCadProducts\obj\Debug\net8.0\ExCadProducts.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExCadProducts\obj\Debug\net8.0\ExCadProducts.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExCadProducts\obj\Debug\net8.0\refint\ExCadProducts.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExCadProducts\obj\Debug\net8.0\ExCadProducts.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExCadProducts\obj\Debug\net8.0\ExCadProducts.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExCadProducts\obj\Debug\net8.0\ref\ExCadProducts.dll
