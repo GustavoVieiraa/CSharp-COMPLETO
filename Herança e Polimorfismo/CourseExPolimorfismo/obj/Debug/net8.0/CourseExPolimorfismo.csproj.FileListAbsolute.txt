@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CSharp - Progress\CourseExPolimorfismo\bin\Debug\net8.0\CourseExPolimorfismo.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\CourseExPolimorfismo\bin\Debug\net8.0\CourseExPolimorfismo.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\CourseExPolimorfismo\bin\Debug\net8.0\CourseExPolimorfismo.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\CourseExPolimorfismo\bin\Debug\net8.0\CourseExPolimorfismo.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\CourseExPolimorfismo\bin\Debug\net8.0\CourseExPolimorfismo.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\CourseExPolimorfismo\obj\Debug\net8.0\CourseExPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\CourseExPolimorfismo\obj\Debug\net8.0\CourseExPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\CourseExPolimorfismo\obj\Debug\net8.0\CourseExPolimorfismo.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\CourseExPolimorfismo\obj\Debug\net8.0\CourseExPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\CourseExPolimorfismo\obj\Debug\net8.0\CourseExPolimorfismo.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\CourseExPolimorfismo\obj\Debug\net8.0\refint\CourseExPolimorfismo.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\CourseExPolimorfismo\obj\Debug\net8.0\CourseExPolimorfismo.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\CourseExPolimorfismo\obj\Debug\net8.0\CourseExPolimorfismo.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\CourseExPolimorfismo\obj\Debug\net8.0\ref\CourseExPolimorfismo.dll
