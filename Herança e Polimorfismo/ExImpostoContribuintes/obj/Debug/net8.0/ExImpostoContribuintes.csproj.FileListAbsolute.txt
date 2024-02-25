@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExImpostoContribuintes\obj\Debug\net8.0\ExImpostoContribuintes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExImpostoContribuintes\obj\Debug\net8.0\ExImpostoContribuintes.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExImpostoContribuintes\obj\Debug\net8.0\ExImpostoContribuintes.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExImpostoContribuintes\obj\Debug\net8.0\ExImpostoContribuintes.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExImpostoContribuintes\bin\Debug\net8.0\ExImpostoContribuintes.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExImpostoContribuintes\bin\Debug\net8.0\ExImpostoContribuintes.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExImpostoContribuintes\bin\Debug\net8.0\ExImpostoContribuintes.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExImpostoContribuintes\bin\Debug\net8.0\ExImpostoContribuintes.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExImpostoContribuintes\bin\Debug\net8.0\ExImpostoContribuintes.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExImpostoContribuintes\obj\Debug\net8.0\ExImpostoContribuintes.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExImpostoContribuintes\obj\Debug\net8.0\refint\ExImpostoContribuintes.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExImpostoContribuintes\obj\Debug\net8.0\ExImpostoContribuintes.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExImpostoContribuintes\obj\Debug\net8.0\ExImpostoContribuintes.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\ExImpostoContribuintes\obj\Debug\net8.0\ref\ExImpostoContribuintes.dll
