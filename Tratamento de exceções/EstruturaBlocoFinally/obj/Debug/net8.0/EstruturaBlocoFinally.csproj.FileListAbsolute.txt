@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaBlocoFinally\bin\Debug\net8.0\EstruturaBlocoFinally.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaBlocoFinally\bin\Debug\net8.0\EstruturaBlocoFinally.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaBlocoFinally\bin\Debug\net8.0\EstruturaBlocoFinally.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaBlocoFinally\bin\Debug\net8.0\EstruturaBlocoFinally.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaBlocoFinally\bin\Debug\net8.0\EstruturaBlocoFinally.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaBlocoFinally\obj\Debug\net8.0\EstruturaBlocoFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaBlocoFinally\obj\Debug\net8.0\EstruturaBlocoFinally.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaBlocoFinally\obj\Debug\net8.0\EstruturaBlocoFinally.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaBlocoFinally\obj\Debug\net8.0\EstruturaBlocoFinally.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaBlocoFinally\obj\Debug\net8.0\EstruturaBlocoFinally.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaBlocoFinally\obj\Debug\net8.0\refint\EstruturaBlocoFinally.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaBlocoFinally\obj\Debug\net8.0\EstruturaBlocoFinally.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaBlocoFinally\obj\Debug\net8.0\EstruturaBlocoFinally.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaBlocoFinally\obj\Debug\net8.0\ref\EstruturaBlocoFinally.dll
