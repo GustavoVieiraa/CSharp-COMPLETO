@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaTry-Catch\bin\Debug\net8.0\EstruturaTry-Catch.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaTry-Catch\bin\Debug\net8.0\EstruturaTry-Catch.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaTry-Catch\bin\Debug\net8.0\EstruturaTry-Catch.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaTry-Catch\bin\Debug\net8.0\EstruturaTry-Catch.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaTry-Catch\bin\Debug\net8.0\EstruturaTry-Catch.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaTry-Catch\obj\Debug\net8.0\EstruturaTry-Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaTry-Catch\obj\Debug\net8.0\EstruturaTry-Catch.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaTry-Catch\obj\Debug\net8.0\EstruturaTry-Catch.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaTry-Catch\obj\Debug\net8.0\EstruturaTry-Catch.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaTry-Catch\obj\Debug\net8.0\EstruturaTry-Catch.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaTry-Catch\obj\Debug\net8.0\refint\EstruturaTry-Catch.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaTry-Catch\obj\Debug\net8.0\EstruturaTry-Catch.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaTry-Catch\obj\Debug\net8.0\EstruturaTry-Catch.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\EstruturaTry-Catch\obj\Debug\net8.0\ref\EstruturaTry-Catch.dll
