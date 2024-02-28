@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\ExFixaçãoExceçõesPersonalizadas\bin\Debug\net8.0\ExFixaçãoExceçõesPersonalizadas.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\ExFixaçãoExceçõesPersonalizadas\bin\Debug\net8.0\ExFixaçãoExceçõesPersonalizadas.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\ExFixaçãoExceçõesPersonalizadas\bin\Debug\net8.0\ExFixaçãoExceçõesPersonalizadas.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\ExFixaçãoExceçõesPersonalizadas\bin\Debug\net8.0\ExFixaçãoExceçõesPersonalizadas.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\ExFixaçãoExceçõesPersonalizadas\bin\Debug\net8.0\ExFixaçãoExceçõesPersonalizadas.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\ExFixaçãoExceçõesPersonalizadas\obj\Debug\net8.0\ExFixaçãoExceçõesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\ExFixaçãoExceçõesPersonalizadas\obj\Debug\net8.0\ExFixaçãoExceçõesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\ExFixaçãoExceçõesPersonalizadas\obj\Debug\net8.0\ExFixaçãoExceçõesPersonalizadas.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\ExFixaçãoExceçõesPersonalizadas\obj\Debug\net8.0\ExFixaçãoExceçõesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\ExFixaçãoExceçõesPersonalizadas\obj\Debug\net8.0\ExFixaçãoExceçõesPersonalizadas.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\ExFixaçãoExceçõesPersonalizadas\obj\Debug\net8.0\refint\ExFixaçãoExceçõesPersonalizadas.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\ExFixaçãoExceçõesPersonalizadas\obj\Debug\net8.0\ExFixaçãoExceçõesPersonalizadas.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\ExFixaçãoExceçõesPersonalizadas\obj\Debug\net8.0\ExFixaçãoExceçõesPersonalizadas.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Tratamento de exceções\ExFixaçãoExceçõesPersonalizadas\obj\Debug\net8.0\ref\ExFixaçãoExceçõesPersonalizadas.dll
