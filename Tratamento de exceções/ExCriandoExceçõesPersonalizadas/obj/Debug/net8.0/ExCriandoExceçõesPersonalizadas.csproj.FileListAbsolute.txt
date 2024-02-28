@@ -1,0 +1,14 @@
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\ExCriandoExceçõesPersonalizadas\bin\Debug\net8.0\ExCriandoExceçõesPersonalizadas.exe
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\ExCriandoExceçõesPersonalizadas\bin\Debug\net8.0\ExCriandoExceçõesPersonalizadas.deps.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\ExCriandoExceçõesPersonalizadas\bin\Debug\net8.0\ExCriandoExceçõesPersonalizadas.runtimeconfig.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\ExCriandoExceçõesPersonalizadas\bin\Debug\net8.0\ExCriandoExceçõesPersonalizadas.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\ExCriandoExceçõesPersonalizadas\bin\Debug\net8.0\ExCriandoExceçõesPersonalizadas.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\ExCriandoExceçõesPersonalizadas\obj\Debug\net8.0\ExCriandoExceçõesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\ExCriandoExceçõesPersonalizadas\obj\Debug\net8.0\ExCriandoExceçõesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\ExCriandoExceçõesPersonalizadas\obj\Debug\net8.0\ExCriandoExceçõesPersonalizadas.AssemblyInfo.cs
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\ExCriandoExceçõesPersonalizadas\obj\Debug\net8.0\ExCriandoExceçõesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\ExCriandoExceçõesPersonalizadas\obj\Debug\net8.0\ExCriandoExceçõesPersonalizadas.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\ExCriandoExceçõesPersonalizadas\obj\Debug\net8.0\refint\ExCriandoExceçõesPersonalizadas.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\ExCriandoExceçõesPersonalizadas\obj\Debug\net8.0\ExCriandoExceçõesPersonalizadas.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\ExCriandoExceçõesPersonalizadas\obj\Debug\net8.0\ExCriandoExceçõesPersonalizadas.genruntimeconfig.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\ExCriandoExceçõesPersonalizadas\obj\Debug\net8.0\ref\ExCriandoExceçõesPersonalizadas.dll
