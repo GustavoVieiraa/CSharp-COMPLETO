@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\UsingBlock\bin\Debug\net8.0\Using Block.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\UsingBlock\bin\Debug\net8.0\Using Block.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\UsingBlock\bin\Debug\net8.0\Using Block.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\UsingBlock\bin\Debug\net8.0\Using Block.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\UsingBlock\bin\Debug\net8.0\Using Block.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\UsingBlock\obj\Debug\net8.0\Using Block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\UsingBlock\obj\Debug\net8.0\Using Block.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\UsingBlock\obj\Debug\net8.0\Using Block.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\UsingBlock\obj\Debug\net8.0\Using Block.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\UsingBlock\obj\Debug\net8.0\Using Block.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\UsingBlock\obj\Debug\net8.0\refint\Using Block.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\UsingBlock\obj\Debug\net8.0\Using Block.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\UsingBlock\obj\Debug\net8.0\Using Block.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\UsingBlock\obj\Debug\net8.0\ref\Using Block.dll
