@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\File-FileInfo-IOException\bin\Debug\net8.0\File-FileInfo-IOException.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\File-FileInfo-IOException\bin\Debug\net8.0\File-FileInfo-IOException.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\File-FileInfo-IOException\bin\Debug\net8.0\File-FileInfo-IOException.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\File-FileInfo-IOException\bin\Debug\net8.0\File-FileInfo-IOException.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\File-FileInfo-IOException\bin\Debug\net8.0\File-FileInfo-IOException.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\File-FileInfo-IOException\obj\Debug\net8.0\File-FileInfo-IOException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\File-FileInfo-IOException\obj\Debug\net8.0\File-FileInfo-IOException.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\File-FileInfo-IOException\obj\Debug\net8.0\File-FileInfo-IOException.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\File-FileInfo-IOException\obj\Debug\net8.0\File-FileInfo-IOException.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\File-FileInfo-IOException\obj\Debug\net8.0\File-FileInfo-IOException.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\File-FileInfo-IOException\obj\Debug\net8.0\refint\File-FileInfo-IOException.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\File-FileInfo-IOException\obj\Debug\net8.0\File-FileInfo-IOException.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\File-FileInfo-IOException\obj\Debug\net8.0\File-FileInfo-IOException.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\File-FileInfo-IOException\obj\Debug\net8.0\ref\File-FileInfo-IOException.dll
