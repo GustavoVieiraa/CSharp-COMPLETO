@@ -1,0 +1,14 @@
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\StreamWriter\bin\Debug\net8.0\StreamWriter.exe
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\StreamWriter\bin\Debug\net8.0\StreamWriter.deps.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\StreamWriter\bin\Debug\net8.0\StreamWriter.runtimeconfig.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\StreamWriter\bin\Debug\net8.0\StreamWriter.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\StreamWriter\bin\Debug\net8.0\StreamWriter.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\StreamWriter\obj\Debug\net8.0\StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\StreamWriter\obj\Debug\net8.0\StreamWriter.AssemblyInfoInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\StreamWriter\obj\Debug\net8.0\StreamWriter.AssemblyInfo.cs
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\StreamWriter\obj\Debug\net8.0\StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\StreamWriter\obj\Debug\net8.0\StreamWriter.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\StreamWriter\obj\Debug\net8.0\refint\StreamWriter.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\StreamWriter\obj\Debug\net8.0\StreamWriter.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\StreamWriter\obj\Debug\net8.0\StreamWriter.genruntimeconfig.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\StreamWriter\obj\Debug\net8.0\ref\StreamWriter.dll
