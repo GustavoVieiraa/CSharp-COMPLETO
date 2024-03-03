@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\ExFixaçãoTrabalhandoComArquivos\bin\Debug\net8.0\ExFixaçãoTrabalhandoComArquivos.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\ExFixaçãoTrabalhandoComArquivos\bin\Debug\net8.0\ExFixaçãoTrabalhandoComArquivos.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\ExFixaçãoTrabalhandoComArquivos\bin\Debug\net8.0\ExFixaçãoTrabalhandoComArquivos.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\ExFixaçãoTrabalhandoComArquivos\bin\Debug\net8.0\ExFixaçãoTrabalhandoComArquivos.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\ExFixaçãoTrabalhandoComArquivos\bin\Debug\net8.0\ExFixaçãoTrabalhandoComArquivos.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\ExFixaçãoTrabalhandoComArquivos\obj\Debug\net8.0\ExFixaçãoTrabalhandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\ExFixaçãoTrabalhandoComArquivos\obj\Debug\net8.0\ExFixaçãoTrabalhandoComArquivos.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\ExFixaçãoTrabalhandoComArquivos\obj\Debug\net8.0\ExFixaçãoTrabalhandoComArquivos.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\ExFixaçãoTrabalhandoComArquivos\obj\Debug\net8.0\ExFixaçãoTrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\ExFixaçãoTrabalhandoComArquivos\obj\Debug\net8.0\ExFixaçãoTrabalhandoComArquivos.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\ExFixaçãoTrabalhandoComArquivos\obj\Debug\net8.0\refint\ExFixaçãoTrabalhandoComArquivos.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\ExFixaçãoTrabalhandoComArquivos\obj\Debug\net8.0\ExFixaçãoTrabalhandoComArquivos.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\ExFixaçãoTrabalhandoComArquivos\obj\Debug\net8.0\ExFixaçãoTrabalhandoComArquivos.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Trabalhando com Arquivos\ExFixaçãoTrabalhandoComArquivos\obj\Debug\net8.0\ref\ExFixaçãoTrabalhandoComArquivos.dll
