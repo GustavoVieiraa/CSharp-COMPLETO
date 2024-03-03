@@ -1,0 +1,14 @@
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\Directory-DirectoryInfo\bin\Debug\net8.0\Directory-DirectoryInfo.exe
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\Directory-DirectoryInfo\bin\Debug\net8.0\Directory-DirectoryInfo.deps.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\Directory-DirectoryInfo\bin\Debug\net8.0\Directory-DirectoryInfo.runtimeconfig.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\Directory-DirectoryInfo\bin\Debug\net8.0\Directory-DirectoryInfo.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\Directory-DirectoryInfo\bin\Debug\net8.0\Directory-DirectoryInfo.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\Directory-DirectoryInfo\obj\Debug\net8.0\Directory-DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\Directory-DirectoryInfo\obj\Debug\net8.0\Directory-DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\Directory-DirectoryInfo\obj\Debug\net8.0\Directory-DirectoryInfo.AssemblyInfo.cs
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\Directory-DirectoryInfo\obj\Debug\net8.0\Directory-DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\Directory-DirectoryInfo\obj\Debug\net8.0\Directory-DirectoryInfo.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\Directory-DirectoryInfo\obj\Debug\net8.0\refint\Directory-DirectoryInfo.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\Directory-DirectoryInfo\obj\Debug\net8.0\Directory-DirectoryInfo.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\Directory-DirectoryInfo\obj\Debug\net8.0\Directory-DirectoryInfo.genruntimeconfig.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Trabalhando com Arquivos\Directory-DirectoryInfo\obj\Debug\net8.0\ref\Directory-DirectoryInfo.dll
