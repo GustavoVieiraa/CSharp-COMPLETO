@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ProblemaDoDiamante\bin\Debug\net8.0\ProblemaDoDiamante.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ProblemaDoDiamante\bin\Debug\net8.0\ProblemaDoDiamante.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ProblemaDoDiamante\bin\Debug\net8.0\ProblemaDoDiamante.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ProblemaDoDiamante\bin\Debug\net8.0\ProblemaDoDiamante.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ProblemaDoDiamante\bin\Debug\net8.0\ProblemaDoDiamante.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ProblemaDoDiamante\obj\Debug\net8.0\ProblemaDoDiamante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ProblemaDoDiamante\obj\Debug\net8.0\ProblemaDoDiamante.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ProblemaDoDiamante\obj\Debug\net8.0\ProblemaDoDiamante.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ProblemaDoDiamante\obj\Debug\net8.0\ProblemaDoDiamante.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ProblemaDoDiamante\obj\Debug\net8.0\ProblemaDoDiamante.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ProblemaDoDiamante\obj\Debug\net8.0\refint\ProblemaDoDiamante.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ProblemaDoDiamante\obj\Debug\net8.0\ProblemaDoDiamante.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ProblemaDoDiamante\obj\Debug\net8.0\ProblemaDoDiamante.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ProblemaDoDiamante\obj\Debug\net8.0\ref\ProblemaDoDiamante.dll
