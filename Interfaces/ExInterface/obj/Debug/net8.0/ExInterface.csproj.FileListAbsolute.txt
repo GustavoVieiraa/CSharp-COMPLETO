@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ExInterface\bin\Debug\net8.0\ExInterface.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ExInterface\bin\Debug\net8.0\ExInterface.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ExInterface\bin\Debug\net8.0\ExInterface.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ExInterface\bin\Debug\net8.0\ExInterface.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ExInterface\bin\Debug\net8.0\ExInterface.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ExInterface\obj\Debug\net8.0\ExInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ExInterface\obj\Debug\net8.0\ExInterface.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ExInterface\obj\Debug\net8.0\ExInterface.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ExInterface\obj\Debug\net8.0\ExInterface.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ExInterface\obj\Debug\net8.0\ExInterface.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ExInterface\obj\Debug\net8.0\refint\ExInterface.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ExInterface\obj\Debug\net8.0\ExInterface.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ExInterface\obj\Debug\net8.0\ExInterface.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\ExInterface\obj\Debug\net8.0\ref\ExInterface.dll
