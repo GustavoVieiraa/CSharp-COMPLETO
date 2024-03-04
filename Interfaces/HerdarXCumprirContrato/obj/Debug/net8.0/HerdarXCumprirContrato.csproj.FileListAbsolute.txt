@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\HerdarXCumprirContrato\bin\Debug\net8.0\HerdarXCumprirContrato.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\HerdarXCumprirContrato\bin\Debug\net8.0\HerdarXCumprirContrato.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\HerdarXCumprirContrato\bin\Debug\net8.0\HerdarXCumprirContrato.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\HerdarXCumprirContrato\bin\Debug\net8.0\HerdarXCumprirContrato.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\HerdarXCumprirContrato\bin\Debug\net8.0\HerdarXCumprirContrato.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\HerdarXCumprirContrato\obj\Debug\net8.0\HerdarXCumprirContrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\HerdarXCumprirContrato\obj\Debug\net8.0\HerdarXCumprirContrato.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\HerdarXCumprirContrato\obj\Debug\net8.0\HerdarXCumprirContrato.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\HerdarXCumprirContrato\obj\Debug\net8.0\HerdarXCumprirContrato.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\HerdarXCumprirContrato\obj\Debug\net8.0\HerdarXCumprirContrato.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\HerdarXCumprirContrato\obj\Debug\net8.0\refint\HerdarXCumprirContrato.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\HerdarXCumprirContrato\obj\Debug\net8.0\HerdarXCumprirContrato.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\HerdarXCumprirContrato\obj\Debug\net8.0\HerdarXCumprirContrato.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\HerdarXCumprirContrato\obj\Debug\net8.0\ref\HerdarXCumprirContrato.dll
