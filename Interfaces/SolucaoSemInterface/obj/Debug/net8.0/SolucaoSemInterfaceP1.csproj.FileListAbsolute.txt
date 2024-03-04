@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\SolucaoSemInterfaceP1\bin\Debug\net8.0\SolucaoSemInterfaceP1.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\SolucaoSemInterfaceP1\bin\Debug\net8.0\SolucaoSemInterfaceP1.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\SolucaoSemInterfaceP1\bin\Debug\net8.0\SolucaoSemInterfaceP1.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\SolucaoSemInterfaceP1\bin\Debug\net8.0\SolucaoSemInterfaceP1.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\SolucaoSemInterfaceP1\bin\Debug\net8.0\SolucaoSemInterfaceP1.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\SolucaoSemInterfaceP1\obj\Debug\net8.0\SolucaoSemInterfaceP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\SolucaoSemInterfaceP1\obj\Debug\net8.0\SolucaoSemInterfaceP1.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\SolucaoSemInterfaceP1\obj\Debug\net8.0\SolucaoSemInterfaceP1.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\SolucaoSemInterfaceP1\obj\Debug\net8.0\SolucaoSemInterfaceP1.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\SolucaoSemInterfaceP1\obj\Debug\net8.0\SolucaoSemInterfaceP1.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\SolucaoSemInterfaceP1\obj\Debug\net8.0\refint\SolucaoSemInterfaceP1.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\SolucaoSemInterfaceP1\obj\Debug\net8.0\SolucaoSemInterfaceP1.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\SolucaoSemInterfaceP1\obj\Debug\net8.0\SolucaoSemInterfaceP1.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\SolucaoSemInterfaceP1\obj\Debug\net8.0\ref\SolucaoSemInterfaceP1.dll
