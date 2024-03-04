@@ -1,7 +1,20 @@
 # C# COMPLETO | Programação orientada a Objetos + Projetos 👨🏻‍💻
-## Skills: C# / .NET / Angular / Git - GitHub / ASP .NET Core MVC / Entity Framework
-Nesse curso, estarei evoluindo essas skills em meu stack e construindo novos projetos, aplicando toda parte prática e teórica.
 
+
+## Assuntos teóricos e práticados no curso:
+
+### Herança e Polimorfismo (Com exercícios) ✔
+### Interfaces (Com exercícios) ✔
+### Trabalhando com arquivos (Com exercícios) ✔
+### Tratamento de Exceções (Com exercícios) ✔
+### Classes, atributos, métodos, membros estáticos ✔
+### Construtores, palavra this, sobrecarga, encapsulamento ✔
+### Git e GitHub ✔
+### Enumerações e Composição ✔
+### Herança e Polimorfismo ✔
+### Projeto de **Xadrez** - Aplicando todos os conceitos aprendidos (Construtores, palavra this, sobrecarga, encapsulamento, associações, herança, classe abstrata, sobreposição, polimorfismo, elementos estativos, tipos enumerados, execeções, vetores, matrizes, listas e conjuntos). ✔
+
+## Skills: C# / .NET / Angular / Git - GitHub / ASP .NET Core MVC / Entity Framework
 <div>
 <img align="center" alt="Git" height="64" width="64" src="https://dannymcgee.gallerycdn.vsassets.io/extensions/dannymcgee/csharp-grammar-extended/1.1.1/1576121453694/Microsoft.VisualStudio.Services.Icons.Default">
 <img align="center" alt="Git" height="64" width="64" src="https://doggy8088.gallerycdn.vsassets.io/extensions/doggy8088/netcore-extension-pack/1.10.0/1700712768336/Microsoft.VisualStudio.Services.Icons.Default">
