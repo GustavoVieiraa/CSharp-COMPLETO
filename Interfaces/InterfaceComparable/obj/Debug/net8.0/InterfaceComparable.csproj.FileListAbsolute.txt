@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\InterfaceComparable\bin\Debug\net8.0\InterfaceComparable.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\InterfaceComparable\bin\Debug\net8.0\InterfaceComparable.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\InterfaceComparable\bin\Debug\net8.0\InterfaceComparable.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\InterfaceComparable\bin\Debug\net8.0\InterfaceComparable.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\InterfaceComparable\bin\Debug\net8.0\InterfaceComparable.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\InterfaceComparable\obj\Debug\net8.0\refint\InterfaceComparable.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Interfaces\InterfaceComparable\obj\Debug\net8.0\ref\InterfaceComparable.dll
