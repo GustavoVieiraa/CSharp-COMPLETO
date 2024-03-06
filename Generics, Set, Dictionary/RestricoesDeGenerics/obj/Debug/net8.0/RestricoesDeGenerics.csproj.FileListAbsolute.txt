@@ -1,0 +1,14 @@
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\RestricoesDeGenerics\bin\Debug\net8.0\RestricoesDeGenerics.exe
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\RestricoesDeGenerics\bin\Debug\net8.0\RestricoesDeGenerics.deps.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\RestricoesDeGenerics\bin\Debug\net8.0\RestricoesDeGenerics.runtimeconfig.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\RestricoesDeGenerics\bin\Debug\net8.0\RestricoesDeGenerics.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\RestricoesDeGenerics\bin\Debug\net8.0\RestricoesDeGenerics.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\RestricoesDeGenerics\obj\Debug\net8.0\RestricoesDeGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\RestricoesDeGenerics\obj\Debug\net8.0\RestricoesDeGenerics.AssemblyInfoInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\RestricoesDeGenerics\obj\Debug\net8.0\RestricoesDeGenerics.AssemblyInfo.cs
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\RestricoesDeGenerics\obj\Debug\net8.0\RestricoesDeGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\RestricoesDeGenerics\obj\Debug\net8.0\RestricoesDeGenerics.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\RestricoesDeGenerics\obj\Debug\net8.0\refint\RestricoesDeGenerics.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\RestricoesDeGenerics\obj\Debug\net8.0\RestricoesDeGenerics.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\RestricoesDeGenerics\obj\Debug\net8.0\RestricoesDeGenerics.genruntimeconfig.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\RestricoesDeGenerics\obj\Debug\net8.0\ref\RestricoesDeGenerics.dll
