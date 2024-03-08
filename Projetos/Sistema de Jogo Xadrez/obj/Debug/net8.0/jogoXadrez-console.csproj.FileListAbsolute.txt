@@ -1,0 +1,42 @@
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\bin\Debug\net8.0\jogoXadrez-console.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\bin\Debug\net8.0\jogoXadrez-console.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\bin\Debug\net8.0\jogoXadrez-console.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\bin\Debug\net8.0\jogoXadrez-console.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\bin\Debug\net8.0\jogoXadrez-console.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\refint\jogoXadrez-console.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\ref\jogoXadrez-console.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\bin\Debug\net8.0\jogoXadrez-console.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\bin\Debug\net8.0\jogoXadrez-console.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\bin\Debug\net8.0\jogoXadrez-console.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\bin\Debug\net8.0\jogoXadrez-console.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\bin\Debug\net8.0\jogoXadrez-console.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\refint\jogoXadrez-console.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Projeto - Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\ref\jogoXadrez-console.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Sistema de Jogo Xadrez\jogoXadrez-console\bin\Debug\net8.0\jogoXadrez-console.exe
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Sistema de Jogo Xadrez\jogoXadrez-console\bin\Debug\net8.0\jogoXadrez-console.deps.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Sistema de Jogo Xadrez\jogoXadrez-console\bin\Debug\net8.0\jogoXadrez-console.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Sistema de Jogo Xadrez\jogoXadrez-console\bin\Debug\net8.0\jogoXadrez-console.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Sistema de Jogo Xadrez\jogoXadrez-console\bin\Debug\net8.0\jogoXadrez-console.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\refint\jogoXadrez-console.dll
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.pdb
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\jogoXadrez-console.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharp - Progress\Projetos\Sistema de Jogo Xadrez\jogoXadrez-console\obj\Debug\net8.0\ref\jogoXadrez-console.dll
