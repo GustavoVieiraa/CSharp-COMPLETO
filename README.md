@@ -16,7 +16,7 @@
 # Projetos
 ### Jogo de **Xadrez** - Aplicando todos os conceitos aprendidos (Construtores, palavra this, sobrecarga, encapsulamento, associações, herança, classe abstrata, sobreposição, polimorfismo, elementos estativos, tipos enumerados, execeções, vetores, matrizes, listas e conjuntos). ✔
 <div>
-<img align="center" alt="FtProjeto" height="400" width="720" src="https://github.com/GustavoVieiraa/CSharp-COMPLETO/blob/main/Projetos/ftProjeto.png"> Projeto: https://acesse.dev/U4jxg
+<img align="center" alt="FtProjeto" height="400" width="720" src="https://github.com/GustavoVieiraa/CSharp-COMPLETO/blob/main/Projetos/ftProjeto.png">
 </div>
 
 ## Skills: C# / .NET / Angular / Git - GitHub / ASP .NET Core MVC / Entity Framework
