@@ -1,0 +1,14 @@
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\HashSetESortedSet\bin\Debug\net8.0\HashSetESortedSet.exe
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\HashSetESortedSet\bin\Debug\net8.0\HashSetESortedSet.deps.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\HashSetESortedSet\bin\Debug\net8.0\HashSetESortedSet.runtimeconfig.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\HashSetESortedSet\bin\Debug\net8.0\HashSetESortedSet.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\HashSetESortedSet\bin\Debug\net8.0\HashSetESortedSet.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\HashSetESortedSet\obj\Debug\net8.0\HashSetESortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\HashSetESortedSet\obj\Debug\net8.0\HashSetESortedSet.AssemblyInfoInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\HashSetESortedSet\obj\Debug\net8.0\HashSetESortedSet.AssemblyInfo.cs
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\HashSetESortedSet\obj\Debug\net8.0\HashSetESortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\HashSetESortedSet\obj\Debug\net8.0\HashSetESortedSet.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\HashSetESortedSet\obj\Debug\net8.0\refint\HashSetESortedSet.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\HashSetESortedSet\obj\Debug\net8.0\HashSetESortedSet.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\HashSetESortedSet\obj\Debug\net8.0\HashSetESortedSet.genruntimeconfig.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\HashSetESortedSet\obj\Debug\net8.0\ref\HashSetESortedSet.dll
