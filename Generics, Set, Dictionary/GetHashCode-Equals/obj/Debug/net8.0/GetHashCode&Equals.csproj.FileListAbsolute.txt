@@ -1,0 +1,14 @@
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\GetHashCode&Equals\bin\Debug\net8.0\GetHashCode&Equals.exe
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\GetHashCode&Equals\bin\Debug\net8.0\GetHashCode&Equals.deps.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\GetHashCode&Equals\bin\Debug\net8.0\GetHashCode&Equals.runtimeconfig.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\GetHashCode&Equals\bin\Debug\net8.0\GetHashCode&Equals.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\GetHashCode&Equals\bin\Debug\net8.0\GetHashCode&Equals.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\GetHashCode&Equals\obj\Debug\net8.0\GetHashCode&Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\GetHashCode&Equals\obj\Debug\net8.0\GetHashCode&Equals.AssemblyInfoInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\GetHashCode&Equals\obj\Debug\net8.0\GetHashCode&Equals.AssemblyInfo.cs
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\GetHashCode&Equals\obj\Debug\net8.0\GetHashCode&Equals.csproj.CoreCompileInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\GetHashCode&Equals\obj\Debug\net8.0\GetHashCode&Equals.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\GetHashCode&Equals\obj\Debug\net8.0\refint\GetHashCode&Equals.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\GetHashCode&Equals\obj\Debug\net8.0\GetHashCode&Equals.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\GetHashCode&Equals\obj\Debug\net8.0\GetHashCode&Equals.genruntimeconfig.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\GetHashCode&Equals\obj\Debug\net8.0\ref\GetHashCode&Equals.dll
