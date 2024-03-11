@@ -1,0 +1,14 @@
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExConjuntos\bin\Debug\net8.0\ExConjuntos.exe
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExConjuntos\bin\Debug\net8.0\ExConjuntos.deps.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExConjuntos\bin\Debug\net8.0\ExConjuntos.runtimeconfig.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExConjuntos\bin\Debug\net8.0\ExConjuntos.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExConjuntos\bin\Debug\net8.0\ExConjuntos.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExConjuntos\obj\Debug\net8.0\ExConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExConjuntos\obj\Debug\net8.0\ExConjuntos.AssemblyInfoInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExConjuntos\obj\Debug\net8.0\ExConjuntos.AssemblyInfo.cs
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExConjuntos\obj\Debug\net8.0\ExConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExConjuntos\obj\Debug\net8.0\ExConjuntos.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExConjuntos\obj\Debug\net8.0\refint\ExConjuntos.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExConjuntos\obj\Debug\net8.0\ExConjuntos.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExConjuntos\obj\Debug\net8.0\ExConjuntos.genruntimeconfig.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExConjuntos\obj\Debug\net8.0\ref\ExConjuntos.dll
