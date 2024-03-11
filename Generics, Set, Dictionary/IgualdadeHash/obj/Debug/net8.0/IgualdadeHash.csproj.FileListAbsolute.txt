@@ -1,0 +1,14 @@
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\IgualdadeHash\bin\Debug\net8.0\IgualdadeHash.exe
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\IgualdadeHash\bin\Debug\net8.0\IgualdadeHash.deps.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\IgualdadeHash\bin\Debug\net8.0\IgualdadeHash.runtimeconfig.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\IgualdadeHash\bin\Debug\net8.0\IgualdadeHash.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\IgualdadeHash\bin\Debug\net8.0\IgualdadeHash.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\IgualdadeHash\obj\Debug\net8.0\IgualdadeHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\IgualdadeHash\obj\Debug\net8.0\IgualdadeHash.AssemblyInfoInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\IgualdadeHash\obj\Debug\net8.0\IgualdadeHash.AssemblyInfo.cs
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\IgualdadeHash\obj\Debug\net8.0\IgualdadeHash.csproj.CoreCompileInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\IgualdadeHash\obj\Debug\net8.0\IgualdadeHash.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\IgualdadeHash\obj\Debug\net8.0\refint\IgualdadeHash.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\IgualdadeHash\obj\Debug\net8.0\IgualdadeHash.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\IgualdadeHash\obj\Debug\net8.0\IgualdadeHash.genruntimeconfig.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\IgualdadeHash\obj\Debug\net8.0\ref\IgualdadeHash.dll
