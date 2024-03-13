@@ -1,0 +1,14 @@
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExPropostoConjuntos\bin\Debug\net8.0\ExPropostoConjuntos.exe
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExPropostoConjuntos\bin\Debug\net8.0\ExPropostoConjuntos.deps.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExPropostoConjuntos\bin\Debug\net8.0\ExPropostoConjuntos.runtimeconfig.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExPropostoConjuntos\bin\Debug\net8.0\ExPropostoConjuntos.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExPropostoConjuntos\bin\Debug\net8.0\ExPropostoConjuntos.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExPropostoConjuntos\obj\Debug\net8.0\ExPropostoConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExPropostoConjuntos\obj\Debug\net8.0\ExPropostoConjuntos.AssemblyInfoInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExPropostoConjuntos\obj\Debug\net8.0\ExPropostoConjuntos.AssemblyInfo.cs
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExPropostoConjuntos\obj\Debug\net8.0\ExPropostoConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExPropostoConjuntos\obj\Debug\net8.0\ExPropostoConjuntos.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExPropostoConjuntos\obj\Debug\net8.0\refint\ExPropostoConjuntos.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExPropostoConjuntos\obj\Debug\net8.0\ExPropostoConjuntos.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExPropostoConjuntos\obj\Debug\net8.0\ExPropostoConjuntos.genruntimeconfig.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\ExPropostoConjuntos\obj\Debug\net8.0\ref\ExPropostoConjuntos.dll
