@@ -1,0 +1,14 @@
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\Dictionary-SortedDictionary\bin\Debug\net8.0\Dictionary-SortedDictionary.exe
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\Dictionary-SortedDictionary\bin\Debug\net8.0\Dictionary-SortedDictionary.deps.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\Dictionary-SortedDictionary\bin\Debug\net8.0\Dictionary-SortedDictionary.runtimeconfig.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\Dictionary-SortedDictionary\bin\Debug\net8.0\Dictionary-SortedDictionary.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\Dictionary-SortedDictionary\bin\Debug\net8.0\Dictionary-SortedDictionary.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\Dictionary-SortedDictionary\obj\Debug\net8.0\Dictionary-SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\Dictionary-SortedDictionary\obj\Debug\net8.0\Dictionary-SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\Dictionary-SortedDictionary\obj\Debug\net8.0\Dictionary-SortedDictionary.AssemblyInfo.cs
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\Dictionary-SortedDictionary\obj\Debug\net8.0\Dictionary-SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\Dictionary-SortedDictionary\obj\Debug\net8.0\Dictionary-SortedDictionary.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\Dictionary-SortedDictionary\obj\Debug\net8.0\refint\Dictionary-SortedDictionary.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\Dictionary-SortedDictionary\obj\Debug\net8.0\Dictionary-SortedDictionary.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\Dictionary-SortedDictionary\obj\Debug\net8.0\Dictionary-SortedDictionary.genruntimeconfig.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Generics, Set, Dictionary\Dictionary-SortedDictionary\obj\Debug\net8.0\ref\Dictionary-SortedDictionary.dll
