@@ -1,0 +1,14 @@
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\MulticastDelegates\bin\Debug\net8.0\MulticastDelegates.exe
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\MulticastDelegates\bin\Debug\net8.0\MulticastDelegates.deps.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\MulticastDelegates\bin\Debug\net8.0\MulticastDelegates.runtimeconfig.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\MulticastDelegates\bin\Debug\net8.0\MulticastDelegates.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\MulticastDelegates\bin\Debug\net8.0\MulticastDelegates.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\MulticastDelegates\obj\Debug\net8.0\MulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\MulticastDelegates\obj\Debug\net8.0\MulticastDelegates.AssemblyInfoInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\MulticastDelegates\obj\Debug\net8.0\MulticastDelegates.AssemblyInfo.cs
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\MulticastDelegates\obj\Debug\net8.0\MulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\MulticastDelegates\obj\Debug\net8.0\MulticastDelegates.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\MulticastDelegates\obj\Debug\net8.0\refint\MulticastDelegates.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\MulticastDelegates\obj\Debug\net8.0\MulticastDelegates.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\MulticastDelegates\obj\Debug\net8.0\MulticastDelegates.genruntimeconfig.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\MulticastDelegates\obj\Debug\net8.0\ref\MulticastDelegates.dll
