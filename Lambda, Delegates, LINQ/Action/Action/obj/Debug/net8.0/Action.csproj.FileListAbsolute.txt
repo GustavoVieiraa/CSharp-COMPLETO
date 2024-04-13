@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\CSharp - Udemy\Projetos\Action\Action\bin\Debug\net8.0\Action.exe
+C:\Users\PC\Desktop\CSharp - Udemy\Projetos\Action\Action\bin\Debug\net8.0\Action.deps.json
+C:\Users\PC\Desktop\CSharp - Udemy\Projetos\Action\Action\bin\Debug\net8.0\Action.runtimeconfig.json
+C:\Users\PC\Desktop\CSharp - Udemy\Projetos\Action\Action\bin\Debug\net8.0\Action.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Projetos\Action\Action\bin\Debug\net8.0\Action.pdb
+C:\Users\PC\Desktop\CSharp - Udemy\Projetos\Action\Action\obj\Debug\net8.0\Action.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\CSharp - Udemy\Projetos\Action\Action\obj\Debug\net8.0\Action.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Projetos\Action\Action\obj\Debug\net8.0\Action.AssemblyInfo.cs
+C:\Users\PC\Desktop\CSharp - Udemy\Projetos\Action\Action\obj\Debug\net8.0\Action.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Projetos\Action\Action\obj\Debug\net8.0\Action.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Projetos\Action\Action\obj\Debug\net8.0\refint\Action.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Projetos\Action\Action\obj\Debug\net8.0\Action.pdb
+C:\Users\PC\Desktop\CSharp - Udemy\Projetos\Action\Action\obj\Debug\net8.0\Action.genruntimeconfig.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Projetos\Action\Action\obj\Debug\net8.0\ref\Action.dll
