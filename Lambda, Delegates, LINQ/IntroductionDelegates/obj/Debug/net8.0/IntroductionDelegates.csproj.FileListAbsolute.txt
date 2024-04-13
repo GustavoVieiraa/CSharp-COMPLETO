@@ -1,0 +1,14 @@
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\IntroductionDelegates\bin\Debug\net8.0\IntroductionDelegates.exe
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\IntroductionDelegates\bin\Debug\net8.0\IntroductionDelegates.deps.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\IntroductionDelegates\bin\Debug\net8.0\IntroductionDelegates.runtimeconfig.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\IntroductionDelegates\bin\Debug\net8.0\IntroductionDelegates.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\IntroductionDelegates\bin\Debug\net8.0\IntroductionDelegates.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\IntroductionDelegates\obj\Debug\net8.0\IntroductionDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\IntroductionDelegates\obj\Debug\net8.0\IntroductionDelegates.AssemblyInfoInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\IntroductionDelegates\obj\Debug\net8.0\IntroductionDelegates.AssemblyInfo.cs
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\IntroductionDelegates\obj\Debug\net8.0\IntroductionDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\IntroductionDelegates\obj\Debug\net8.0\IntroductionDelegates.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\IntroductionDelegates\obj\Debug\net8.0\refint\IntroductionDelegates.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\IntroductionDelegates\obj\Debug\net8.0\IntroductionDelegates.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\IntroductionDelegates\obj\Debug\net8.0\IntroductionDelegates.genruntimeconfig.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\IntroductionDelegates\obj\Debug\net8.0\ref\IntroductionDelegates.dll
