@@ -1,0 +1,14 @@
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Predicate\bin\Debug\net8.0\Predicate.exe
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Predicate\bin\Debug\net8.0\Predicate.deps.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Predicate\bin\Debug\net8.0\Predicate.runtimeconfig.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Predicate\bin\Debug\net8.0\Predicate.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Predicate\bin\Debug\net8.0\Predicate.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Predicate\obj\Debug\net8.0\Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Predicate\obj\Debug\net8.0\Predicate.AssemblyInfoInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Predicate\obj\Debug\net8.0\Predicate.AssemblyInfo.cs
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Predicate\obj\Debug\net8.0\Predicate.csproj.CoreCompileInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Predicate\obj\Debug\net8.0\Predicate.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Predicate\obj\Debug\net8.0\refint\Predicate.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Predicate\obj\Debug\net8.0\Predicate.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Predicate\obj\Debug\net8.0\Predicate.genruntimeconfig.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Predicate\obj\Debug\net8.0\ref\Predicate.dll
