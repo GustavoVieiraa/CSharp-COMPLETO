@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\net8.0\IntroducaoLINQ.exe
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\net8.0\IntroducaoLINQ.deps.json
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\net8.0\IntroducaoLINQ.runtimeconfig.json
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\net8.0\IntroducaoLINQ.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\net8.0\IntroducaoLINQ.pdb
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\IntroducaoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\IntroducaoLINQ.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\IntroducaoLINQ.AssemblyInfo.cs
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\IntroducaoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\IntroducaoLINQ.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\refint\IntroducaoLINQ.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\IntroducaoLINQ.pdb
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\IntroducaoLINQ.genruntimeconfig.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\net8.0\ref\IntroducaoLINQ.dll
