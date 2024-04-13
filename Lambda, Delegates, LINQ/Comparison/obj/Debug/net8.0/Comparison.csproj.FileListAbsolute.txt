@@ -1,0 +1,14 @@
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Comparison\bin\Debug\net8.0\Comparison.exe
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Comparison\bin\Debug\net8.0\Comparison.deps.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Comparison\bin\Debug\net8.0\Comparison.runtimeconfig.json
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Comparison\bin\Debug\net8.0\Comparison.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Comparison\bin\Debug\net8.0\Comparison.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Comparison\obj\Debug\net8.0\Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Comparison\obj\Debug\net8.0\Comparison.AssemblyInfoInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Comparison\obj\Debug\net8.0\Comparison.AssemblyInfo.cs
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Comparison\obj\Debug\net8.0\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Comparison\obj\Debug\net8.0\Comparison.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Comparison\obj\Debug\net8.0\refint\Comparison.dll
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Comparison\obj\Debug\net8.0\Comparison.pdb
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Comparison\obj\Debug\net8.0\Comparison.genruntimeconfig.cache
+C:\Users\Z0239165\OneDrive - ZF Friedrichshafen AG\Desktop\HomeWork\CourseUdemy\Lambda, Delegates, LINQ\Comparison\obj\Debug\net8.0\ref\Comparison.dll
