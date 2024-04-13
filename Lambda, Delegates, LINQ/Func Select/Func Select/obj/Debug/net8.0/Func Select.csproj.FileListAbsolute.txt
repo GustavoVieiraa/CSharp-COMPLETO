@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\Func Select\Func Select\bin\Debug\net8.0\Func Select.exe
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\Func Select\Func Select\bin\Debug\net8.0\Func Select.deps.json
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\Func Select\Func Select\bin\Debug\net8.0\Func Select.runtimeconfig.json
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\Func Select\Func Select\bin\Debug\net8.0\Func Select.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\Func Select\Func Select\bin\Debug\net8.0\Func Select.pdb
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\Func Select\Func Select\obj\Debug\net8.0\Func Select.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\Func Select\Func Select\obj\Debug\net8.0\Func Select.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\Func Select\Func Select\obj\Debug\net8.0\Func Select.AssemblyInfo.cs
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\Func Select\Func Select\obj\Debug\net8.0\Func Select.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\Func Select\Func Select\obj\Debug\net8.0\Func Select.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\Func Select\Func Select\obj\Debug\net8.0\refint\Func Select.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\Func Select\Func Select\obj\Debug\net8.0\Func Select.pdb
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\Func Select\Func Select\obj\Debug\net8.0\Func Select.genruntimeconfig.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\Func Select\Func Select\obj\Debug\net8.0\ref\Func Select.dll
