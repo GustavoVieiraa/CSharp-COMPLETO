@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\ExPropostoLINQ\ExPropostoLINQ\bin\Debug\net8.0\ExPropostoLINQ.exe
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\ExPropostoLINQ\ExPropostoLINQ\bin\Debug\net8.0\ExPropostoLINQ.deps.json
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\ExPropostoLINQ\ExPropostoLINQ\bin\Debug\net8.0\ExPropostoLINQ.runtimeconfig.json
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\ExPropostoLINQ\ExPropostoLINQ\bin\Debug\net8.0\ExPropostoLINQ.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\ExPropostoLINQ\ExPropostoLINQ\bin\Debug\net8.0\ExPropostoLINQ.pdb
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\ExPropostoLINQ\ExPropostoLINQ\obj\Debug\net8.0\ExPropostoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\ExPropostoLINQ\ExPropostoLINQ\obj\Debug\net8.0\ExPropostoLINQ.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\ExPropostoLINQ\ExPropostoLINQ\obj\Debug\net8.0\ExPropostoLINQ.AssemblyInfo.cs
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\ExPropostoLINQ\ExPropostoLINQ\obj\Debug\net8.0\ExPropostoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\ExPropostoLINQ\ExPropostoLINQ\obj\Debug\net8.0\ExPropostoLINQ.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\ExPropostoLINQ\ExPropostoLINQ\obj\Debug\net8.0\refint\ExPropostoLINQ.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\ExPropostoLINQ\ExPropostoLINQ\obj\Debug\net8.0\ExPropostoLINQ.pdb
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\ExPropostoLINQ\ExPropostoLINQ\obj\Debug\net8.0\ExPropostoLINQ.genruntimeconfig.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\ExPropostoLINQ\ExPropostoLINQ\obj\Debug\net8.0\ref\ExPropostoLINQ.dll
