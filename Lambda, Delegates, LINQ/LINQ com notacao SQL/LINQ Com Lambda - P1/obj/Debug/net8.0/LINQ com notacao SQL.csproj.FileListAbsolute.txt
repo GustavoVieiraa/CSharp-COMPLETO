@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ com notacao SQL\LINQ Com Lambda - P1\bin\Debug\net8.0\LINQ com notacao SQL.exe
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ com notacao SQL\LINQ Com Lambda - P1\bin\Debug\net8.0\LINQ com notacao SQL.deps.json
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ com notacao SQL\LINQ Com Lambda - P1\bin\Debug\net8.0\LINQ com notacao SQL.runtimeconfig.json
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ com notacao SQL\LINQ Com Lambda - P1\bin\Debug\net8.0\LINQ com notacao SQL.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ com notacao SQL\LINQ Com Lambda - P1\bin\Debug\net8.0\LINQ com notacao SQL.pdb
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ com notacao SQL\LINQ Com Lambda - P1\obj\Debug\net8.0\LINQ com notacao SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ com notacao SQL\LINQ Com Lambda - P1\obj\Debug\net8.0\LINQ com notacao SQL.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ com notacao SQL\LINQ Com Lambda - P1\obj\Debug\net8.0\LINQ com notacao SQL.AssemblyInfo.cs
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ com notacao SQL\LINQ Com Lambda - P1\obj\Debug\net8.0\LINQ com notacao SQL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ com notacao SQL\LINQ Com Lambda - P1\obj\Debug\net8.0\LINQ com notacao SQL.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ com notacao SQL\LINQ Com Lambda - P1\obj\Debug\net8.0\refint\LINQ com notacao SQL.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ com notacao SQL\LINQ Com Lambda - P1\obj\Debug\net8.0\LINQ com notacao SQL.pdb
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ com notacao SQL\LINQ Com Lambda - P1\obj\Debug\net8.0\LINQ com notacao SQL.genruntimeconfig.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ com notacao SQL\LINQ Com Lambda - P1\obj\Debug\net8.0\ref\LINQ com notacao SQL.dll

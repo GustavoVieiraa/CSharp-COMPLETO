@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ Com Lambda - P2\LINQ Com Lambda - P1\bin\Debug\net8.0\LINQ Com Lambda - P2.exe
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ Com Lambda - P2\LINQ Com Lambda - P1\bin\Debug\net8.0\LINQ Com Lambda - P2.deps.json
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ Com Lambda - P2\LINQ Com Lambda - P1\bin\Debug\net8.0\LINQ Com Lambda - P2.runtimeconfig.json
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ Com Lambda - P2\LINQ Com Lambda - P1\bin\Debug\net8.0\LINQ Com Lambda - P2.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ Com Lambda - P2\LINQ Com Lambda - P1\bin\Debug\net8.0\LINQ Com Lambda - P2.pdb
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ Com Lambda - P2\LINQ Com Lambda - P1\obj\Debug\net8.0\LINQ Com Lambda - P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ Com Lambda - P2\LINQ Com Lambda - P1\obj\Debug\net8.0\LINQ Com Lambda - P2.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ Com Lambda - P2\LINQ Com Lambda - P1\obj\Debug\net8.0\LINQ Com Lambda - P2.AssemblyInfo.cs
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ Com Lambda - P2\LINQ Com Lambda - P1\obj\Debug\net8.0\LINQ Com Lambda - P2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ Com Lambda - P2\LINQ Com Lambda - P1\obj\Debug\net8.0\LINQ Com Lambda - P2.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ Com Lambda - P2\LINQ Com Lambda - P1\obj\Debug\net8.0\refint\LINQ Com Lambda - P2.dll
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ Com Lambda - P2\LINQ Com Lambda - P1\obj\Debug\net8.0\LINQ Com Lambda - P2.pdb
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ Com Lambda - P2\LINQ Com Lambda - P1\obj\Debug\net8.0\LINQ Com Lambda - P2.genruntimeconfig.cache
+C:\Users\PC\Desktop\CSharp - Udemy\Lambda, Delegates, LINQ\LINQ Com Lambda - P2\LINQ Com Lambda - P1\obj\Debug\net8.0\ref\LINQ Com Lambda - P2.dll

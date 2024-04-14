@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LINQ com notacao SQL/1.0.0": {
+        "runtime": {
+          "LINQ com notacao SQL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ com notacao SQL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
