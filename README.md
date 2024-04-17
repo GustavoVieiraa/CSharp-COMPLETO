@@ -12,9 +12,17 @@
 ### Git e GitHub ✔
 ### Enumerações e Composição ✔
 ### Herança e Polimorfismo ✔
+### Model-View-Controller (MVC) ✔
+### Entity Framework ✔
+### MySQL ✔
+### LINQ ✔
+### Task assíncronas - (async & await) ✔
 
-# Projetos
-### Jogo de **Xadrez** - Aplicando todos os conceitos aprendidos (Construtores, palavra this, sobrecarga, encapsulamento, associações, herança, classe abstrata, sobreposição, polimorfismo, elementos estativos, tipos enumerados, execeções, vetores, matrizes, listas e conjuntos). ✔
+## Projeto - Sales Web MVC 🌟
+<a href="https://github.com/GustavoVieiraa/SalesWebMvc-Project" target="_blank">Clique aqui</a> para conferir, projeto completo aplicando conceitos avançados. ✔
+
+## Projeto - Jogo de Xadrez 🕹 
+Aplicando todos os conceitos aprendidos (Construtores, palavra this, sobrecarga, encapsulamento, associações, herança, classe abstrata, sobreposição, polimorfismo, elementos estativos, tipos enumerados, execeções, vetores, matrizes, listas e conjuntos). ✔
 <div>
 <img align="center" alt="FtProjeto" height="400" width="720" src="https://github.com/GustavoVieiraa/CSharp-COMPLETO/blob/main/Projetos/ftProjeto.png">
 </div>
